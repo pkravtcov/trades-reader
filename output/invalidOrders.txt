@@ -1,0 +1,141 @@
+Broker: Wells Fargo Advisors; TradeId: 1
+Broker: Ameriprise Financial; TradeId: 1
+Broker: Wells Fargo Advisors; TradeId: 2
+Broker: Charles Schwab; TradeId: 2
+Broker: Wells Fargo Advisors; TradeId: 3
+Broker: Wells Fargo Advisors; TradeId: 4
+Broker: Fidelity; TradeId: 4
+Broker: National Planning Corporation; TradeId: 4
+Broker: Wells Fargo Advisors; TradeId: 6
+Broker: Wells Fargo Advisors; TradeId: 5
+Broker: TD Ameritrade; TradeId: 6
+Broker: Wells Fargo Advisors; TradeId: 8
+Broker: Ameriprise Financial; TradeId: 7
+Broker: Wells Fargo Advisors; TradeId: 7
+Broker: Wells Fargo Advisors; TradeId: 9
+Broker: Wells Fargo Advisors; TradeId: 10
+Broker: Wells Fargo Advisors; TradeId: 11
+Broker: Ameriprise Financial; TradeId: 9
+Broker: Wells Fargo Advisors; TradeId: 12
+Broker: Wells Fargo Advisors; TradeId: 13
+Broker: Edward Jones; TradeId: 11
+Broker: Wells Fargo Advisors; TradeId: 14
+Broker: Edward Jones; TradeId: 12
+Broker: Wells Fargo Advisors; TradeId: 15
+Broker: National Planning Corporation; TradeId: 13
+Broker: Wells Fargo Advisors; TradeId: 16
+Broker: Wells Fargo Advisors; TradeId: 17
+Broker: Wells Fargo Advisors; TradeId: 18
+Broker: Wells Fargo Advisors; TradeId: 19
+Broker: Wells Fargo Advisors; TradeId: 20
+Broker: Wells Fargo Advisors; TradeId: 21
+Broker: Wells Fargo Advisors; TradeId: 22
+Broker: Ameriprise Financial; TradeId: 15
+Broker: National Planning Corporation; TradeId: 15
+Broker: Wells Fargo Advisors; TradeId: 23
+Broker: Wells Fargo Advisors; TradeId: 24
+Broker: AXA Advisors; TradeId: 16
+Broker: Wells Fargo Advisors; TradeId: 25
+Broker: Fidelity; TradeId: 18
+Broker: Wells Fargo Advisors; TradeId: 26
+Broker: Edward Jones; TradeId: 18
+Broker: Wells Fargo Advisors; TradeId: 27
+Broker: Wells Fargo Advisors; TradeId: 28
+Broker: Wells Fargo Advisors; TradeId: 29
+Broker: Wells Fargo Advisors; TradeId: 30
+Broker: TD Ameritrade; TradeId: 20
+Broker: Wells Fargo Advisors; TradeId: 31
+Broker: Wells Fargo Advisors; TradeId: 32
+Broker: Wells Fargo Advisors; TradeId: 33
+Broker: Charles Schwab; TradeId: 21
+Broker: Wells Fargo Advisors; TradeId: 34
+Broker: Wells Fargo Advisors; TradeId: 35
+Broker: Wells Fargo Advisors; TradeId: 36
+Broker: AXA Advisors; TradeId: 22
+Broker: Wells Fargo Advisors; TradeId: 37
+Broker: Wells Fargo Advisors; TradeId: 38
+Broker: Fidelity; TradeId: 23
+Broker: Wells Fargo Advisors; TradeId: 39
+Broker: National Planning Corporation; TradeId: 25
+Broker: Wells Fargo Advisors; TradeId: 40
+Broker: Wells Fargo Advisors; TradeId: 41
+Broker: Wells Fargo Advisors; TradeId: 42
+Broker: TD Ameritrade; TradeId: 27
+Broker: Wells Fargo Advisors; TradeId: 43
+Broker: Wells Fargo Advisors; TradeId: 44
+Broker: Wells Fargo Advisors; TradeId: 45
+Broker: Wells Fargo Advisors; TradeId: 46
+Broker: Wells Fargo Advisors; TradeId: 47
+Broker: Wells Fargo Advisors; TradeId: 48
+Broker: Wells Fargo Advisors; TradeId: 49
+Broker: Wells Fargo Advisors; TradeId: 50
+Broker: Wells Fargo Advisors; TradeId: 51
+Broker: Wells Fargo Advisors; TradeId: 52
+Broker: Wells Fargo Advisors; TradeId: 53
+Broker: Wells Fargo Advisors; TradeId: 54
+Broker: Wells Fargo Advisors; TradeId: 55
+Broker: Wells Fargo Advisors; TradeId: 56
+Broker: Wells Fargo Advisors; TradeId: 57
+Broker: Wells Fargo Advisors; TradeId: 58
+Broker: Wells Fargo Advisors; TradeId: 59
+Broker: Wells Fargo Advisors; TradeId: 60
+Broker: Wells Fargo Advisors; TradeId: 61
+Broker: Wells Fargo Advisors; TradeId: 62
+Broker: Wells Fargo Advisors; TradeId: 63
+Broker: Wells Fargo Advisors; TradeId: 64
+Broker: Wells Fargo Advisors; TradeId: 65
+Broker: Ameriprise Financial; TradeId: 30
+Broker: Wells Fargo Advisors; TradeId: 66
+Broker: Wells Fargo Advisors; TradeId: 67
+Broker: Wells Fargo Advisors; TradeId: 68
+Broker: LPL Financial; TradeId: 33
+Broker: LPL Financial; TradeId: 34
+Broker: Fidelity; TradeId: 32
+Broker: Edward Jones; TradeId: 32
+Broker: Wells Fargo Advisors; TradeId: 69
+Broker: Charles Schwab; TradeId: 33
+Broker: Ameriprise Financial; TradeId: 33
+Broker: TD Ameritrade; TradeId: 33
+Broker: Raymond James Financial; TradeId: 33
+Broker: AXA Advisors; TradeId: 33
+Broker: National Planning Corporation; TradeId: 33
+Broker: Wells Fargo Advisors; TradeId: 70
+Broker: Wells Fargo Advisors; TradeId: 71
+Broker: Wells Fargo Advisors; TradeId: 72
+Broker: Wells Fargo Advisors; TradeId: 73
+Broker: Wells Fargo Advisors; TradeId: 74
+Broker: Wells Fargo Advisors; TradeId: 75
+Broker: Wells Fargo Advisors; TradeId: 76
+Broker: Wells Fargo Advisors; TradeId: 77
+Broker: Wells Fargo Advisors; TradeId: 78
+Broker: Wells Fargo Advisors; TradeId: 79
+Broker: Wells Fargo Advisors; TradeId: 80
+Broker: National Planning Corporation; TradeId: 37
+Broker: Wells Fargo Advisors; TradeId: 81
+Broker: Wells Fargo Advisors; TradeId: 82
+Broker: Raymond James Financial; TradeId: 39
+Broker: Wells Fargo Advisors; TradeId: 83
+Broker: Wells Fargo Advisors; TradeId: 84
+Broker: Wells Fargo Advisors; TradeId: 85
+Broker: Waddell & Reed; TradeId: 1
+Broker: LPL Financial; TradeId: 42
+Broker: Wells Fargo Advisors; TradeId: 86
+Broker: Wells Fargo Advisors; TradeId: 87
+Broker: Waddell & Reed; TradeId: 2
+Broker: Ameriprise Financial; TradeId: 44
+Broker: Wells Fargo Advisors; TradeId: 88
+Broker: Wells Fargo Advisors; TradeId: 89
+Broker: Wells Fargo Advisors; TradeId: 90
+Broker: AXA Advisors; TradeId: 46
+Broker: AXA Advisors; TradeId: 47
+Broker: Wells Fargo Advisors; TradeId: 91
+Broker: Wells Fargo Advisors; TradeId: 92
+Broker: Wells Fargo Advisors; TradeId: 93
+Broker: Wells Fargo Advisors; TradeId: 94
+Broker: Edward Jones; TradeId: 49
+Broker: Wells Fargo Advisors; TradeId: 95
+Broker: Wells Fargo Advisors; TradeId: 96
+Broker: Wells Fargo Advisors; TradeId: 97
+Broker: Wells Fargo Advisors; TradeId: 98
+Broker: Wells Fargo Advisors; TradeId: 99
+Broker: Wells Fargo Advisors; TradeId: 100
