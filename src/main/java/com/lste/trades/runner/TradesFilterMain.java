@@ -13,17 +13,18 @@ import com.lste.trades.importer.TxtFileImporter;
 import com.ltse.trades.validator.TradeValidator;
 
 public class TradesFilterMain {
+	
+	private static final String SYMBOLS_FILE = "symbols.txt";
+	private static final String BROKERS_FILE = "firms.txt";
+	private static final String TRADES_FILE = "trades.csv";
 
 	public static void main(String[] args) {
-		String symbolsPath = "symbols.txt";
-		String firmsPath = "firms.txt";
-		String tradesPath = "trades.csv";
 		List<Trade> validOrders = new ArrayList<>();
 		List<Trade> invalidOrders = new ArrayList<>();
 		
-		FileImporter symbolsImporter = new TxtFileImporter(symbolsPath);
-		FileImporter firmsImporter = new TxtFileImporter(firmsPath);
-		FileImporter tradesImporter = new CsvFileImporter(tradesPath);
+		FileImporter symbolsImporter = new TxtFileImporter(SYMBOLS_FILE);
+		FileImporter firmsImporter = new TxtFileImporter(BROKERS_FILE);
+		FileImporter tradesImporter = new CsvFileImporter(TRADES_FILE);
 		
 		try {
 			List<String> validSymbols = symbolsImporter.getData();
