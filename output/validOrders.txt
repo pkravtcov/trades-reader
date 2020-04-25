@@ -4,10 +4,12 @@ Broker: AXA Advisors; TradeId: 1
 Broker: National Planning Corporation; TradeId: 1
 Broker: Edward Jones; TradeId: 1
 Broker: Raymond James Financial; TradeId: 1
+Broker: Wells Fargo Advisors; TradeId: 1
 Broker: LPL Financial; TradeId: 1
 Broker: TD Ameritrade; TradeId: 1
 Broker: Fidelity; TradeId: 2
 Broker: Fidelity; TradeId: 3
+Broker: Wells Fargo Advisors; TradeId: 2
 Broker: Charles Schwab; TradeId: 3
 Broker: Edward Jones; TradeId: 2
 Broker: TD Ameritrade; TradeId: 3
@@ -23,7 +25,9 @@ Broker: National Planning Corporation; TradeId: 2
 Broker: Edward Jones; TradeId: 3
 Broker: National Planning Corporation; TradeId: 3
 Broker: LPL Financial; TradeId: 3
+Broker: Wells Fargo Advisors; TradeId: 3
 Broker: Edward Jones; TradeId: 4
+Broker: Wells Fargo Advisors; TradeId: 4
 Broker: Charles Schwab; TradeId: 4
 Broker: Ameriprise Financial; TradeId: 4
 Broker: LPL Financial; TradeId: 4
@@ -31,6 +35,7 @@ Broker: AXA Advisors; TradeId: 4
 Broker: Raymond James Financial; TradeId: 4
 Broker: TD Ameritrade; TradeId: 4
 Broker: Fidelity; TradeId: 5
+Broker: Wells Fargo Advisors; TradeId: 6
 Broker: Ameriprise Financial; TradeId: 5
 Broker: TD Ameritrade; TradeId: 5
 Broker: Raymond James Financial; TradeId: 5
@@ -54,7 +59,9 @@ Broker: Charles Schwab; TradeId: 7
 Broker: Edward Jones; TradeId: 7
 Broker: TD Ameritrade; TradeId: 7
 Broker: Raymond James Financial; TradeId: 7
+Broker: Wells Fargo Advisors; TradeId: 8
 Broker: National Planning Corporation; TradeId: 7
+Broker: Wells Fargo Advisors; TradeId: 7
 Broker: AXA Advisors; TradeId: 8
 Broker: LPL Financial; TradeId: 8
 Broker: Fidelity; TradeId: 8
@@ -64,6 +71,8 @@ Broker: Ameriprise Financial; TradeId: 8
 Broker: TD Ameritrade; TradeId: 8
 Broker: Raymond James Financial; TradeId: 8
 Broker: National Planning Corporation; TradeId: 8
+Broker: Wells Fargo Advisors; TradeId: 10
+Broker: Wells Fargo Advisors; TradeId: 11
 Broker: Fidelity; TradeId: 9
 Broker: Charles Schwab; TradeId: 9
 Broker: Edward Jones; TradeId: 9
@@ -72,6 +81,7 @@ Broker: Raymond James Financial; TradeId: 9
 Broker: AXA Advisors; TradeId: 9
 Broker: LPL Financial; TradeId: 9
 Broker: National Planning Corporation; TradeId: 9
+Broker: Wells Fargo Advisors; TradeId: 12
 Broker: Charles Schwab; TradeId: 10
 Broker: Edward Jones; TradeId: 10
 Broker: Ameriprise Financial; TradeId: 10
@@ -89,6 +99,7 @@ Broker: Raymond James Financial; TradeId: 11
 Broker: AXA Advisors; TradeId: 11
 Broker: LPL Financial; TradeId: 11
 Broker: National Planning Corporation; TradeId: 11
+Broker: Wells Fargo Advisors; TradeId: 14
 Broker: Charles Schwab; TradeId: 12
 Broker: Ameriprise Financial; TradeId: 12
 Broker: TD Ameritrade; TradeId: 12
@@ -96,6 +107,7 @@ Broker: Raymond James Financial; TradeId: 12
 Broker: AXA Advisors; TradeId: 12
 Broker: LPL Financial; TradeId: 12
 Broker: National Planning Corporation; TradeId: 12
+Broker: Wells Fargo Advisors; TradeId: 15
 Broker: Fidelity; TradeId: 12
 Broker: Fidelity; TradeId: 13
 Broker: Charles Schwab; TradeId: 13
@@ -105,6 +117,10 @@ Broker: TD Ameritrade; TradeId: 13
 Broker: Raymond James Financial; TradeId: 13
 Broker: AXA Advisors; TradeId: 13
 Broker: LPL Financial; TradeId: 13
+Broker: Wells Fargo Advisors; TradeId: 16
+Broker: Wells Fargo Advisors; TradeId: 17
+Broker: Wells Fargo Advisors; TradeId: 18
+Broker: Wells Fargo Advisors; TradeId: 19
 Broker: Fidelity; TradeId: 14
 Broker: Charles Schwab; TradeId: 14
 Broker: Edward Jones; TradeId: 14
@@ -114,12 +130,17 @@ Broker: Raymond James Financial; TradeId: 14
 Broker: AXA Advisors; TradeId: 14
 Broker: LPL Financial; TradeId: 14
 Broker: National Planning Corporation; TradeId: 14
+Broker: Wells Fargo Advisors; TradeId: 20
+Broker: Wells Fargo Advisors; TradeId: 21
+Broker: Wells Fargo Advisors; TradeId: 22
 Broker: Charles Schwab; TradeId: 15
 Broker: Edward Jones; TradeId: 15
 Broker: TD Ameritrade; TradeId: 15
 Broker: Raymond James Financial; TradeId: 15
 Broker: AXA Advisors; TradeId: 15
 Broker: LPL Financial; TradeId: 15
+Broker: Wells Fargo Advisors; TradeId: 23
+Broker: Wells Fargo Advisors; TradeId: 24
 Broker: Fidelity; TradeId: 15
 Broker: Charles Schwab; TradeId: 16
 Broker: Edward Jones; TradeId: 16
@@ -128,6 +149,7 @@ Broker: TD Ameritrade; TradeId: 16
 Broker: Raymond James Financial; TradeId: 16
 Broker: LPL Financial; TradeId: 16
 Broker: National Planning Corporation; TradeId: 16
+Broker: Wells Fargo Advisors; TradeId: 25
 Broker: Fidelity; TradeId: 16
 Broker: Fidelity; TradeId: 17
 Broker: Charles Schwab; TradeId: 17
@@ -138,6 +160,7 @@ Broker: Raymond James Financial; TradeId: 17
 Broker: AXA Advisors; TradeId: 17
 Broker: LPL Financial; TradeId: 17
 Broker: National Planning Corporation; TradeId: 17
+Broker: Wells Fargo Advisors; TradeId: 26
 Broker: Charles Schwab; TradeId: 18
 Broker: Ameriprise Financial; TradeId: 18
 Broker: TD Ameritrade; TradeId: 18
@@ -145,6 +168,8 @@ Broker: Raymond James Financial; TradeId: 18
 Broker: AXA Advisors; TradeId: 18
 Broker: LPL Financial; TradeId: 18
 Broker: National Planning Corporation; TradeId: 18
+Broker: Wells Fargo Advisors; TradeId: 27
+Broker: Wells Fargo Advisors; TradeId: 29
 Broker: Fidelity; TradeId: 19
 Broker: Charles Schwab; TradeId: 19
 Broker: Edward Jones; TradeId: 19
@@ -154,6 +179,7 @@ Broker: Raymond James Financial; TradeId: 19
 Broker: AXA Advisors; TradeId: 19
 Broker: LPL Financial; TradeId: 19
 Broker: National Planning Corporation; TradeId: 19
+Broker: Wells Fargo Advisors; TradeId: 30
 Broker: Fidelity; TradeId: 20
 Broker: Charles Schwab; TradeId: 20
 Broker: Edward Jones; TradeId: 20
@@ -162,6 +188,9 @@ Broker: Raymond James Financial; TradeId: 20
 Broker: AXA Advisors; TradeId: 20
 Broker: LPL Financial; TradeId: 20
 Broker: National Planning Corporation; TradeId: 20
+Broker: Wells Fargo Advisors; TradeId: 31
+Broker: Wells Fargo Advisors; TradeId: 32
+Broker: Wells Fargo Advisors; TradeId: 33
 Broker: Fidelity; TradeId: 21
 Broker: Edward Jones; TradeId: 21
 Broker: Ameriprise Financial; TradeId: 21
@@ -170,6 +199,9 @@ Broker: Raymond James Financial; TradeId: 21
 Broker: AXA Advisors; TradeId: 21
 Broker: LPL Financial; TradeId: 21
 Broker: National Planning Corporation; TradeId: 21
+Broker: Wells Fargo Advisors; TradeId: 34
+Broker: Wells Fargo Advisors; TradeId: 35
+Broker: Wells Fargo Advisors; TradeId: 36
 Broker: Fidelity; TradeId: 22
 Broker: Charles Schwab; TradeId: 22
 Broker: Edward Jones; TradeId: 22
@@ -178,6 +210,7 @@ Broker: TD Ameritrade; TradeId: 22
 Broker: Raymond James Financial; TradeId: 22
 Broker: LPL Financial; TradeId: 22
 Broker: National Planning Corporation; TradeId: 22
+Broker: Wells Fargo Advisors; TradeId: 37
 Broker: Fidelity; TradeId: 23
 Broker: Charles Schwab; TradeId: 23
 Broker: Edward Jones; TradeId: 23
@@ -187,6 +220,7 @@ Broker: Raymond James Financial; TradeId: 23
 Broker: AXA Advisors; TradeId: 23
 Broker: LPL Financial; TradeId: 23
 Broker: National Planning Corporation; TradeId: 23
+Broker: Wells Fargo Advisors; TradeId: 38
 Broker: Charles Schwab; TradeId: 24
 Broker: Edward Jones; TradeId: 24
 Broker: Ameriprise Financial; TradeId: 24
@@ -203,6 +237,8 @@ Broker: TD Ameritrade; TradeId: 25
 Broker: Raymond James Financial; TradeId: 25
 Broker: AXA Advisors; TradeId: 25
 Broker: LPL Financial; TradeId: 25
+Broker: Wells Fargo Advisors; TradeId: 40
+Broker: Wells Fargo Advisors; TradeId: 41
 Broker: Fidelity; TradeId: 25
 Broker: Charles Schwab; TradeId: 26
 Broker: Edward Jones; TradeId: 26
@@ -212,6 +248,7 @@ Broker: Raymond James Financial; TradeId: 26
 Broker: AXA Advisors; TradeId: 26
 Broker: LPL Financial; TradeId: 26
 Broker: National Planning Corporation; TradeId: 26
+Broker: Wells Fargo Advisors; TradeId: 42
 Broker: Fidelity; TradeId: 26
 Broker: Charles Schwab; TradeId: 27
 Broker: Edward Jones; TradeId: 27
@@ -220,6 +257,7 @@ Broker: Raymond James Financial; TradeId: 27
 Broker: AXA Advisors; TradeId: 27
 Broker: LPL Financial; TradeId: 27
 Broker: National Planning Corporation; TradeId: 27
+Broker: Wells Fargo Advisors; TradeId: 43
 Broker: Fidelity; TradeId: 27
 Broker: Charles Schwab; TradeId: 28
 Broker: Edward Jones; TradeId: 28
@@ -229,7 +267,24 @@ Broker: Raymond James Financial; TradeId: 28
 Broker: AXA Advisors; TradeId: 28
 Broker: LPL Financial; TradeId: 28
 Broker: National Planning Corporation; TradeId: 28
+Broker: Wells Fargo Advisors; TradeId: 44
+Broker: Wells Fargo Advisors; TradeId: 45
+Broker: Wells Fargo Advisors; TradeId: 46
+Broker: Wells Fargo Advisors; TradeId: 47
+Broker: Wells Fargo Advisors; TradeId: 48
+Broker: Wells Fargo Advisors; TradeId: 49
 Broker: Transamerica Financial; TradeId: 1
+Broker: Wells Fargo Advisors; TradeId: 50
+Broker: Wells Fargo Advisors; TradeId: 51
+Broker: Wells Fargo Advisors; TradeId: 53
+Broker: Wells Fargo Advisors; TradeId: 54
+Broker: Wells Fargo Advisors; TradeId: 55
+Broker: Wells Fargo Advisors; TradeId: 56
+Broker: Wells Fargo Advisors; TradeId: 58
+Broker: Wells Fargo Advisors; TradeId: 59
+Broker: Wells Fargo Advisors; TradeId: 60
+Broker: Wells Fargo Advisors; TradeId: 62
+Broker: Wells Fargo Advisors; TradeId: 63
 Broker: Fidelity; TradeId: 28
 Broker: Charles Schwab; TradeId: 29
 Broker: Edward Jones; TradeId: 29
@@ -239,6 +294,8 @@ Broker: Raymond James Financial; TradeId: 29
 Broker: AXA Advisors; TradeId: 29
 Broker: LPL Financial; TradeId: 29
 Broker: National Planning Corporation; TradeId: 29
+Broker: Wells Fargo Advisors; TradeId: 64
+Broker: Wells Fargo Advisors; TradeId: 65
 Broker: Fidelity; TradeId: 29
 Broker: Charles Schwab; TradeId: 30
 Broker: Edward Jones; TradeId: 30
@@ -247,6 +304,8 @@ Broker: Raymond James Financial; TradeId: 30
 Broker: AXA Advisors; TradeId: 30
 Broker: LPL Financial; TradeId: 30
 Broker: National Planning Corporation; TradeId: 30
+Broker: Wells Fargo Advisors; TradeId: 66
+Broker: Wells Fargo Advisors; TradeId: 67
 Broker: Fidelity; TradeId: 30
 Broker: Charles Schwab; TradeId: 31
 Broker: Edward Jones; TradeId: 31
@@ -256,6 +315,7 @@ Broker: Raymond James Financial; TradeId: 31
 Broker: AXA Advisors; TradeId: 31
 Broker: LPL Financial; TradeId: 31
 Broker: National Planning Corporation; TradeId: 31
+Broker: Wells Fargo Advisors; TradeId: 68
 Broker: LPL Financial; TradeId: 32
 Broker: Fidelity; TradeId: 31
 Broker: Charles Schwab; TradeId: 32
@@ -264,7 +324,9 @@ Broker: TD Ameritrade; TradeId: 32
 Broker: Raymond James Financial; TradeId: 32
 Broker: AXA Advisors; TradeId: 32
 Broker: National Planning Corporation; TradeId: 32
+Broker: Wells Fargo Advisors; TradeId: 69
 Broker: Edward Jones; TradeId: 33
+Broker: Wells Fargo Advisors; TradeId: 70
 Broker: Charles Schwab; TradeId: 34
 Broker: Edward Jones; TradeId: 34
 Broker: Ameriprise Financial; TradeId: 34
@@ -272,7 +334,13 @@ Broker: TD Ameritrade; TradeId: 34
 Broker: Raymond James Financial; TradeId: 34
 Broker: AXA Advisors; TradeId: 34
 Broker: National Planning Corporation; TradeId: 34
+Broker: Wells Fargo Advisors; TradeId: 71
 Broker: Fidelity; TradeId: 33
+Broker: Wells Fargo Advisors; TradeId: 72
+Broker: Wells Fargo Advisors; TradeId: 73
+Broker: Wells Fargo Advisors; TradeId: 75
+Broker: Wells Fargo Advisors; TradeId: 76
+Broker: Wells Fargo Advisors; TradeId: 77
 Broker: Fidelity; TradeId: 34
 Broker: Charles Schwab; TradeId: 35
 Broker: Edward Jones; TradeId: 35
@@ -282,6 +350,7 @@ Broker: Raymond James Financial; TradeId: 35
 Broker: AXA Advisors; TradeId: 35
 Broker: LPL Financial; TradeId: 35
 Broker: National Planning Corporation; TradeId: 35
+Broker: Wells Fargo Advisors; TradeId: 79
 Broker: Fidelity; TradeId: 35
 Broker: Charles Schwab; TradeId: 36
 Broker: Edward Jones; TradeId: 36
@@ -299,6 +368,7 @@ Broker: TD Ameritrade; TradeId: 37
 Broker: Raymond James Financial; TradeId: 37
 Broker: AXA Advisors; TradeId: 37
 Broker: LPL Financial; TradeId: 37
+Broker: Wells Fargo Advisors; TradeId: 81
 Broker: Fidelity; TradeId: 37
 Broker: Charles Schwab; TradeId: 38
 Broker: Edward Jones; TradeId: 38
@@ -308,6 +378,7 @@ Broker: Raymond James Financial; TradeId: 38
 Broker: AXA Advisors; TradeId: 38
 Broker: LPL Financial; TradeId: 38
 Broker: National Planning Corporation; TradeId: 38
+Broker: Wells Fargo Advisors; TradeId: 82
 Broker: Fidelity; TradeId: 38
 Broker: Charles Schwab; TradeId: 39
 Broker: Edward Jones; TradeId: 39
@@ -316,6 +387,7 @@ Broker: TD Ameritrade; TradeId: 39
 Broker: AXA Advisors; TradeId: 39
 Broker: LPL Financial; TradeId: 39
 Broker: National Planning Corporation; TradeId: 39
+Broker: Wells Fargo Advisors; TradeId: 83
 Broker: Fidelity; TradeId: 39
 Broker: Charles Schwab; TradeId: 40
 Broker: Edward Jones; TradeId: 40
@@ -325,6 +397,7 @@ Broker: Raymond James Financial; TradeId: 40
 Broker: AXA Advisors; TradeId: 40
 Broker: LPL Financial; TradeId: 40
 Broker: National Planning Corporation; TradeId: 40
+Broker: Wells Fargo Advisors; TradeId: 84
 Broker: Fidelity; TradeId: 40
 Broker: Charles Schwab; TradeId: 41
 Broker: Raymond James Financial; TradeId: 41
@@ -334,6 +407,7 @@ Broker: Edward Jones; TradeId: 41
 Broker: National Planning Corporation; TradeId: 41
 Broker: LPL Financial; TradeId: 41
 Broker: AXA Advisors; TradeId: 41
+Broker: Waddell & Reed; TradeId: 1
 Broker: Fidelity; TradeId: 41
 Broker: Edward Jones; TradeId: 42
 Broker: TD Ameritrade; TradeId: 42
@@ -342,6 +416,8 @@ Broker: AXA Advisors; TradeId: 42
 Broker: Charles Schwab; TradeId: 42
 Broker: Ameriprise Financial; TradeId: 42
 Broker: National Planning Corporation; TradeId: 42
+Broker: Wells Fargo Advisors; TradeId: 86
+Broker: Wells Fargo Advisors; TradeId: 87
 Broker: Ameriprise Financial; TradeId: 43
 Broker: AXA Advisors; TradeId: 43
 Broker: National Planning Corporation; TradeId: 43
@@ -351,9 +427,11 @@ Broker: TD Ameritrade; TradeId: 43
 Broker: Edward Jones; TradeId: 43
 Broker: Charles Schwab; TradeId: 43
 Broker: Fidelity; TradeId: 42
+Broker: Waddell & Reed; TradeId: 2
 Broker: Raymond James Financial; TradeId: 44
 Broker: AXA Advisors; TradeId: 44
 Broker: TD Ameritrade; TradeId: 44
+Broker: Wells Fargo Advisors; TradeId: 88
 Broker: Edward Jones; TradeId: 44
 Broker: Charles Schwab; TradeId: 44
 Broker: Fidelity; TradeId: 43
@@ -363,11 +441,13 @@ Broker: Ameriprise Financial; TradeId: 45
 Broker: Edward Jones; TradeId: 45
 Broker: Charles Schwab; TradeId: 45
 Broker: Fidelity; TradeId: 44
+Broker: Wells Fargo Advisors; TradeId: 89
 Broker: National Planning Corporation; TradeId: 45
 Broker: LPL Financial; TradeId: 45
 Broker: AXA Advisors; TradeId: 45
 Broker: Raymond James Financial; TradeId: 45
 Broker: TD Ameritrade; TradeId: 45
+Broker: Wells Fargo Advisors; TradeId: 90
 Broker: Raymond James Financial; TradeId: 46
 Broker: TD Ameritrade; TradeId: 46
 Broker: Ameriprise Financial; TradeId: 46
@@ -384,6 +464,8 @@ Broker: Edward Jones; TradeId: 47
 Broker: Fidelity; TradeId: 46
 Broker: National Planning Corporation; TradeId: 47
 Broker: LPL Financial; TradeId: 47
+Broker: Wells Fargo Advisors; TradeId: 91
+Broker: Wells Fargo Advisors; TradeId: 92
 Broker: Edward Jones; TradeId: 48
 Broker: Raymond James Financial; TradeId: 48
 Broker: Ameriprise Financial; TradeId: 48
@@ -393,6 +475,8 @@ Broker: AXA Advisors; TradeId: 48
 Broker: Charles Schwab; TradeId: 48
 Broker: TD Ameritrade; TradeId: 48
 Broker: Fidelity; TradeId: 47
+Broker: Wells Fargo Advisors; TradeId: 93
+Broker: Wells Fargo Advisors; TradeId: 94
 Broker: LPL Financial; TradeId: 49
 Broker: National Planning Corporation; TradeId: 49
 Broker: Fidelity; TradeId: 48
@@ -408,6 +492,12 @@ Broker: National Planning Corporation; TradeId: 50
 Broker: Fidelity; TradeId: 49
 Broker: Charles Schwab; TradeId: 50
 Broker: AXA Advisors; TradeId: 50
+Broker: Wells Fargo Advisors; TradeId: 95
+Broker: Wells Fargo Advisors; TradeId: 96
+Broker: Wells Fargo Advisors; TradeId: 97
+Broker: Wells Fargo Advisors; TradeId: 98
 Broker: Fidelity; TradeId: 50
 Broker: Charles Schwab; TradeId: 51
+Broker: Wells Fargo Advisors; TradeId: 99
 Broker: Edward Jones; TradeId: 50
+Broker: Wells Fargo Advisors; TradeId: 100
